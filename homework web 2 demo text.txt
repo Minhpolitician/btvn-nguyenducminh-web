@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> HOMEWORK TECHKIDS C4E11 (WEB) Tanks of world war 2   </title>
+  </head>
+  <body>
+    <h1>HOMEWORK TECHKIDS C4E11 (web)<br>This are tanks of ww2.<br> Countries:</h1>
+       <ul>
+<li> USSR </li> 
+<li> Germany</li> 
+<li> USA </li> 
+<li> UK  </li> 
+<li> Japan  </li> 
+       </ul>
+<table>  
+       <td>
+        Panther A(Germany)<br><img src="http://www.worldwarphotos.info/wp-content/gallery/germany/tanks/panther-panzer/Panther_ausf_D_number_232.jpg" alt=" Panther A(Germany)" height="100" width="200">        
+      </td>
+      
+      <td>
+        IS 2(USSR)<br><img src="http://www.tanks-encyclopedia.com/ww2/soviet/photos/JS2.jpg" alt=" IS 2(USSR) height="100" width="200"">
+      </td>
+      <td>
+        Sherman Jumbo (USA)<br><img src="http://cdn-frm-xbox.gcdn.co/wotx/xbox/uploads/monthly_08_2015/post-138711-0-92858300-1438727506.jpg" alt="Sherman Jumbo (USA) height="100" width="200"">
+      </td>
+      <td>
+         Churchill mk VII(UK)<br><img src="https://www.flamesofwar.com/Portals/0/all_images/weapons/Churchill-VII-Croc-01.jpg" alt="Churchill mk VII(UK) height="100" width="200"">
+
+      </td>
+
+      <td>
+       Chi To(Japan)<br><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Chi-To.JPG" alt="Chi To(Japan) height="100" width="200"">
+
+      </td>
+      
+</table>
+    <h2> For more information: <a href="https://en.wikipedia.org/wiki/Tanks_in_World_War_II"> Click here </a> </h2>
+  </body>
+</html>
